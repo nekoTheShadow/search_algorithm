@@ -1,4 +1,4 @@
-package _03_OnePlayerGame;
+package _03_OnePlayerGame._00_MazeState;
 
 import java.util.ArrayList;
 import java.util.List;

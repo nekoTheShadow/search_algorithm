@@ -1,4 +1,4 @@
-package _03_OnePlayerGame;
+package _03_OnePlayerGame._00_MazeState;
 
 public class Coord {
     public int x;
