@@ -1,4 +1,4 @@
-package _05_AlternateGame._05_AlternateGame;
+package _05_AlternateGame._00_AlternateMazeState;
 
 public enum WinningStatus {
     WIN,
